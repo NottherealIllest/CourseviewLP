@@ -1,0 +1,84 @@
+.jumbotron {
+	background: url('../images/cover.png'); top center; 
+    background-size: cover;
+    height: 100vh;
+    margin-bottom: -2em;
+  
+  }
+
+  #top-jumbotron {
+    margin-bottom: 0;
+  }
+  
+  .courseview {
+    font-size: 50px;
+    font-family: "Pacifico";
+    color: rgb(255, 255, 255);
+  }
+
+  .nmca {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+  }
+
+
+ul li a {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+    text-align: center;
+    float: none;
+    padding-left: 10px;
+  }
+  
+  .iPhone {
+    background-image: url("iPhone.png");
+    position: absolute;
+    left: 510px;
+    top: 836px;
+    width: 642px;
+    height: 701px;
+    z-index: 27;
+  }
+
+  .dis1 {
+    font-size: 18px;
+    font-family: "Lato";
+    color: rgb(33, 150, 243);
+    text-transform: uppercase;
+    line-height: 1.2;
+    
+  }
+
+  .abouttext {
+    font-size: 16px;
+    font-family: "Lato";
+    color: rgb(55, 55, 55);
+    line-height: 1.5;
+    
+  }
+
+.aboutt {
+
+  background-color: #f5f6f7;
+  
+}
+
+.subscribe {
+  background: url('../images/live.png');
+  background-size: cover;
+   width: 100%;
+   height: 790px;
+}
+  .subscribe h2 {
+  font-size: 20px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
